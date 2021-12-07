@@ -1,7 +1,8 @@
 [{
 	'layer_x': 'Not Applicable',
-	'cu_count': 15,
-	'mc_count': 0,
+	device_count': 9554,
+	'datetime': '2021-12-03 11:39:27'
+	
 	'power_flow': 'Not Retrievable',
 	'data_center': 'DC3',
 	'sl1_version': 'EM7 10.2.1.1 [build 2]',
